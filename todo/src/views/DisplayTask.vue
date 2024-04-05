@@ -1,5 +1,4 @@
 <template>
-  <h1>akshay</h1>
   <div>
     <RouterLink to="/first">Home</RouterLink>
     <RouterLink to="/todo">Add Task</RouterLink>
