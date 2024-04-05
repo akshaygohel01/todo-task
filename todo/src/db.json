@@ -1,0 +1,302 @@
+{
+  "users": [
+    {
+      "id": "cfb5",
+      "fullName": "Akshay Gohel",
+      "email": "aks@gmail.com",
+      "password": "a$t%@1uQ",
+      "mobile_no": 8973947347,
+      "tasks": [
+        {
+          "title": "Edited Task",
+          "description": "edited description",
+          "status": "in-progress",
+          "taskId": 1357
+        },
+        {
+          "title": "Task-4",
+          "description": "Desc-4",
+          "status": "in-progress",
+          "taskId": 3922
+        },
+        {
+          "title": "Task-5",
+          "description": "Desc-5",
+          "status": "completed",
+          "taskId": 883
+        },
+        {
+          "title": "Task-6",
+          "description": "Desc-6",
+          "status": "completed",
+          "taskId": 5568
+        },
+        {
+          "title": "Task-8",
+          "description": "Desc-8",
+          "status": "in-progress",
+          "taskId": 8843
+        },
+        {
+          "title": "last task",
+          "description": "description",
+          "status": "in-progress",
+          "taskId": 971
+        }
+      ]
+    },
+    {
+      "id": "7a83",
+      "fullName": "Kalpesh Senva",
+      "email": "kalp@gmail.com",
+      "password": "K@n&y$!j",
+      "mobile_no": 8973947347,
+      "tasks": [
+        {
+          "title": " Task For Kalpeshgggggggggggggggggggg",
+          "description": "complete home work.",
+          "status": "in-progress",
+          "taskId": 3770
+        },
+        {
+          "title": "Project Module",
+          "description": "integrate google authentication for sign-up.",
+          "status": "in-progress",
+          "taskId": 4450
+        },
+        {
+          "title": "Complete Breakfast",
+          "description": "complete breakfast at 8 A.M.",
+          "status": "completed",
+          "taskId": 7056
+        },
+        {
+          "title": " College Presentation",
+          "description": "make ppt and prepare for exam.",
+          "status": "pending",
+          "taskId": 7321
+        },
+        {
+          "title": "project correction",
+          "description": "Do necessary changes told by faculty.",
+          "status": "in-progress",
+          "taskId": 4663
+        },
+        {
+          "title": "Clone chat-bot",
+          "description": "complete new bot",
+          "status": "completed",
+          "taskId": 1748
+        },
+        {
+          "title": "Task-7",
+          "description": "Desc-7",
+          "status": "pending",
+          "taskId": 6937
+        },
+        {
+          "title": "Task-8",
+          "description": "Desc-8",
+          "status": "pending",
+          "taskId": 8186
+        },
+        {
+          "title": "Task-9",
+          "description": "Desc-9",
+          "status": "pending",
+          "taskId": 595
+        },
+        {
+          "title": "Task-10",
+          "description": "Desc-10",
+          "status": "pending",
+          "taskId": 8110
+        },
+        {
+          "title": "Task-11",
+          "description": "Desc-11",
+          "status": "pending",
+          "taskId": 6988
+        },
+        {
+          "title": "Task-12",
+          "description": "Desc-12",
+          "status": "pending",
+          "taskId": 370
+        },
+        {
+          "title": "Task-13",
+          "description": "Desc-13",
+          "status": "pending",
+          "taskId": 6516
+        },
+        {
+          "title": "Task-14",
+          "description": "Desc-14",
+          "status": "pending",
+          "taskId": 5273
+        },
+        {
+          "title": "Task-15",
+          "description": "Desc-15",
+          "status": "pending",
+          "taskId": 3301
+        },
+        {
+          "title": "Task-16",
+          "description": "desc-16",
+          "status": "pending",
+          "taskId": 232
+        },
+        {
+          "title": " Task For Kalpesh",
+          "description": "complete home work.",
+          "status": "pending",
+          "taskId": 7078
+        },
+        {
+          "title": " ",
+          "description": " ",
+          "status": "pending",
+          "taskId": 3176
+        },
+        {
+          "title": " ",
+          "description": " ",
+          "status": "pending",
+          "taskId": 283
+        },
+        {
+          "title": " ",
+          "description": " ",
+          "status": "pending",
+          "taskId": 8701
+        },
+        {
+          "title": " ",
+          "description": " ",
+          "status": "pending",
+          "taskId": 2751
+        },
+        {
+          "title": " ",
+          "description": " ",
+          "status": "pending",
+          "taskId": 1104
+        },
+        {
+          "title": " ",
+          "description": " ",
+          "status": "pending",
+          "taskId": 531
+        },
+        {
+          "title": " ",
+          "description": " ",
+          "status": "pending",
+          "taskId": 1453
+        },
+        {
+          "title": " ",
+          "description": " ",
+          "status": "pending",
+          "taskId": 5633
+        },
+        {
+          "title": " ",
+          "description": " ",
+          "status": "pending",
+          "taskId": 3885
+        },
+        {
+          "title": " ",
+          "description": " ",
+          "status": "pending",
+          "taskId": 5309
+        },
+        {
+          "title": " ",
+          "description": " ",
+          "status": "pending",
+          "taskId": 5356
+        }
+      ]
+    },
+    {
+      "id": "0cc7",
+      "fullName": "Sanket Mecwan",
+      "email": "san@gmail.com",
+      "password": "S#2*t%2R",
+      "mobile_no": 8957489328,
+      "tasks": [
+        {
+          "title": " Task for Sanket",
+          "description": "This is some description about task",
+          "status": "completed",
+          "taskId": 3573
+        }
+      ]
+    },
+    {
+      "id": "5a91",
+      "fullName": "Dirghayu",
+      "email": "dirgh@gmail.com",
+      "password": "d&@3y4@#",
+      "mobile_no": 8973947347,
+      "tasks": []
+    },
+    {
+      "id": "3d18",
+      "fullName": "new user",
+      "email": "user@gmail.com",
+      "password": "12345678",
+      "mobile_no": 9307423244,
+      "tasks": []
+    },
+    {
+      "id": "0f9f",
+      "fullName": "Hargi Vara",
+      "email": "h@gmail.com",
+      "password": "Abc@223133",
+      "mobile_no": 1234567899,
+      "tasks": [
+        {
+          "title": "",
+          "description": "",
+          "status": "in-progress",
+          "taskId": 1721
+        },
+        {
+          "title": "Task 2",
+          "description": "Task 2",
+          "status": "pending",
+          "taskId": 7216
+        },
+        {
+          "title": "Task 3",
+          "description": "Task 3",
+          "status": "pending",
+          "taskId": 7713
+        },
+        {
+          "title": "Task 4",
+          "description": "Task 4",
+          "status": "pending",
+          "taskId": 9929
+        },
+        {
+          "title": "Task 5",
+          "description": "Task 5",
+          "status": "pending",
+          "taskId": 4665
+        },
+        {
+          "title": "Task 6",
+          "description": "Task 6",
+          "status": "pending",
+          "taskId": 8352
+        }
+      ]
+    }
+  ]
+}
