@@ -25,7 +25,7 @@
             <th>Task ID.</th>
             <th>Title</th>
             <th>Description</th>
-            <th>Status</th>
+            <th>Statuss</th>
           </tr>
         </thead>
         <tbody>
