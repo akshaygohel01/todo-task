@@ -7,9 +7,7 @@
     <button @click="logout" class="logout">Logout</button>
     <RouterView />
 
-    <template v-if="paginatedFilteredTasks.length > 0">
-      <h1>Tasks Data</h1>
-      <div class="filterDiv">
+    <div class="filterDiv">
         <h3>Filter your data:</h3>
         <select v-model="selectedStatus" class="selectStatus" @change="applyFilter">
           <option value="" selected>All</option>
@@ -18,6 +16,9 @@
           <option value="completed">Completed</option>
         </select>
       </div>
+    <template v-if="paginatedFilteredTasks.length > 0">
+      <h1>Tasks Data</h1>
+      
       <table class="task-table">
         <thead>
           <tr>

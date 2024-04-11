@@ -297,6 +297,14 @@
           "taskId": 8352
         }
       ]
+    },
+    {
+      "id": "3bce",
+      "fullName": "Kushagra",
+      "email": "kushagra@gmail.com",
+      "password": "12345678",
+      "mobile_no": 9321320392,
+      "tasks": []
     }
   ]
 }
